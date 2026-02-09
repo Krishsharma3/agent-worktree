@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+# agent-worktree (local copy)
+
+This folder contains a local copy / helper README for the upstream `agent-worktree` project (https://github.com/nekocode/agent-worktree).
+
+## Purpose
+- Provide a separate local repo folder you can push to your own GitHub.
+- Summarize install and quick-use commands.
+
+## Options
+1) Use the upstream repo directly (recommended):
+
+```bash
 # agent-worktree (local copy)
 
 This folder contains a local copy / helper README for the upstream `agent-worktree` project (https://github.com/nekocode/agent-worktree).
@@ -80,6 +93,9 @@ Project-specific config can be in `.agent-worktree.toml` (see upstream for detai
 
 ## Upstream
 Full docs and examples are at: https://github.com/nekocode/agent-worktree
+
+## Note
+This README was merged with the existing remote README; it preserves the local usage notes and references the upstream project.
 
 ---
 
